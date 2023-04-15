@@ -2,7 +2,8 @@ import 'package:flutter/material.dart';
 
 void main() {
   runApp(const MyApp());
-}
+} 
+// aljawharah
 //lama alshaya
 // hello hello
 
@@ -28,7 +29,7 @@ class MyApp extends StatelessWidget {
       ),
       home: const MyHomePage(title: 'Flutter Demo Home Page'),
     );
-  }//jumanah
+  }
 }
 
 class MyHomePage extends StatefulWidget {
